@@ -1,0 +1,384 @@
+<!--/APP/readyscript/pc2-template/RTM-104-TW-DailyWell/404.php-->
+<!--/APP/readyscript/pc2-template/RTM-104-TW-DailyWell/tpl-libs.php-->
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="copyright" content="DAILYWELL ELECTRONICS CO., LTD." />
+<meta name="author" content="Ready-Market Online Corporation" />
+<meta name="rating" content="general" /><meta name="robots" content="index, follow" /><link rel="dns-prefetch" href="https://cdn.ready-market.com">
+<link rel="canonical" href="https://www.dailywell.com.tw/en/.html" />
+<link rel="alternate" hreflang="en" href="https://www.dailywell.com.tw/en/.html" />
+<link rel="alternate" hreflang="fr" href="https://www.dailywell.com.tw/fr/.html" />
+<link rel="alternate" hreflang="es" href="https://www.dailywell.com.tw/es/.html" />
+<link rel="alternate" hreflang="it" href="https://www.dailywell.com.tw/it/.html" />
+<link rel="alternate" hreflang="de" href="https://www.dailywell.com.tw/de/.html" />
+<link rel="alternate" hreflang="ru" href="https://www.dailywell.com.tw/ru/.html" />
+<link rel="alternate" hreflang="cs" href="https://www.dailywell.com.tw/cs/.html" />
+<link rel="alternate" hreflang="ro" href="https://www.dailywell.com.tw/ro/.html" />
+<link rel="alternate" hreflang="tr" href="https://www.dailywell.com.tw/tr/.html" />
+<link rel="alternate" hreflang="ja" href="https://www.dailywell.com.tw/ja/.html" />
+<link rel="alternate" hreflang="zh-TW" href="https://www.dailywell.com.tw/zh-TW/.html" />
+<link rel="alternate" hreflang="zh-CN" href="https://www.dailywell.com.tw/zh-CN/.html" /><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<!---bootstrap styles -->
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fbootstrap.rmmin.css&v=8f9b67fb" />
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fresponsive.rmmin.css&v=ec915608" />
+<!---main styles -->
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fstyle.rmmin.css&v=a4668207" />
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2FMyMedia.rmmin.css&v=38173fef" />
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fanimate.rmmin.css&v=d6efd8bf" />
+<!---bootstrap-tabs styles -->
+<link rel="stylesheet" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fbootstrap-tabs.rmmin.css&v=3bc9bc29" />
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css" />
+<!---[if lt IE 8]>
+      <div style='text-align:center'><a href="//www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="//www.theie6countdown.com/img/upgrade.jpg"border="0"alt=""/></a></div>  
+  <![endif]-->
+<!---[if lt IE 9]>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:400' rel='stylesheet' type='text/css' />
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css' />
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css' />
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:700' rel='stylesheet' type='text/css' />
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:800' rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="css/ie.css" />
+    <script src="js/html5shiv.js"></script>
+  <![endif]-->
+<!---[if gte IE 9]>
+    <link rel="stylesheet" href="css/ie.css" />
+  <![endif]-->
+<LINK REL="stylesheet" TYPE="text/css" href="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Frevolution-slider.rmmin.css%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Fbxslider.rmmin.css%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fcss%2Fjackbox.rmmin.css%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fcss%2Fjackbox_hovers.rmmin.css%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fcss%2Ftab.main-area.rmmin.css%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Ftablesaw%2Ftablesaw.rmmin.css&v=3b86d678" />
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  window.ga_debug = {trace: true};
+  ga('create', 'UA-108138380-1', 'auto');
+  ga('send', 'pageview');            
+    var pageTracker = {
+        _trackPageview: function () {
+            ga('send', 'pageview', arguments[0]);
+        }
+    }
+</script>
+</head>
+<body class="wide_layout relative w_xs_auto">
+
+<header role="banner" class="header_4" dir="ltr">
+  <div class="panel">
+    <div class="container">
+        <div class="clearfix">
+        <nav id="menu-nav">
+              <div id="menu-button"> <i class="fa fa-align-justify"></i> </div>
+        </nav>            
+                    
+        <div class="phone-div hidden-phone"> Call Us <strong> 886-2-2240-9060</strong> </div>
+        <div class="email-div hidden-phone"> Email Us <strong> info@dailywell.com.tw</strong> </div>
+        
+        <!---===========block_language===============-->
+        
+        <ul class="block_language clearfix ">
+            <li class="language">
+                <a href="/en/.html" class="slct">
+                    <em class="icon"><img class="translate_flag en" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="English"></em>English                </a>
+            <ul class="drop">
+                            <li><a href="/en/.html" hreflang="en"><em class="icon"><img class="translate_flag en" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="English"></em>English</a></li>                
+                            <li><a href="/fr/.html" hreflang="fr"><em class="icon"><img class="translate_flag fr" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Français"></em>Français</a></li>                
+                            <li><a href="/es/.html" hreflang="es"><em class="icon"><img class="translate_flag es" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Español"></em>Español</a></li>                
+                            <li><a href="/it/.html" hreflang="it"><em class="icon"><img class="translate_flag it" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Italiano"></em>Italiano</a></li>                
+                            <li><a href="/de/.html" hreflang="de"><em class="icon"><img class="translate_flag de" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Deutsch"></em>Deutsch</a></li>                
+                            <li><a href="/ru/.html" hreflang="ru"><em class="icon"><img class="translate_flag ru" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Русский"></em>Русский</a></li>                
+                            <li><a href="/cs/.html" hreflang="cs"><em class="icon"><img class="translate_flag cs" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="česky"></em>česky</a></li>                
+                            <li><a href="/ro/.html" hreflang="ro"><em class="icon"><img class="translate_flag ro" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Română"></em>Română</a></li>                
+                            <li><a href="/tr/.html" hreflang="tr"><em class="icon"><img class="translate_flag tr" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="Türkçe"></em>Türkçe</a></li>                
+                            <li><a href="/ja/.html" hreflang="ja"><em class="icon"><img class="translate_flag ja" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="日本語"></em>日本語</a></li>                
+                            <li><a href="/zh-TW/.html" hreflang="zh-TW"><em class="icon"><img class="translate_flag zh-TW" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="中文 (繁體)"></em>中文 (繁體)</a></li>                
+                            <li><a href="/zh-CN/.html" hreflang="zh-CN"><em class="icon"><img class="translate_flag zh-CN" src="https://cdn.ready-market.com/6/e98961bd//readyscript/pc2-template/RTM-104-TW-DailyWell/img/transparent.gif?v=6a4b8e2f" alt="中文 (简体)"></em>中文 (简体)</a></li>                
+                        </ul>
+            <input type="hidden" id="select" />
+            </li>
+        </ul>
+        <!---===========end block_language===============--> 
+        
+      </div>
+      </div>
+  </div>  
+  
+        <div class="header_top">
+          <div class="container">
+           <div class="navbar navbar_ clearfix">
+              
+                <div class="navbar-inner text-center">   
+                  <h1 class="brand"><a href="/en/index.html"><img src="https://cdn.ready-market.com/6/e98961bd//Templates/pic/logo.png?v=667ade85"  alt="DAILYWELL ELECTRONICS CO., LTD. - Dailywell Electronics Co., Ltd. - Switch, Metal Switch and Anti Vandal Switch Manufacturer"  />
+                  <span>
+		DAILYWELL / In the field of switches, the world operates orderly because of us.
+We hold the key to issue an order.	                  </span>
+                  </a></h1>
+            <div class="block-form">
+            <div class="btn-search"></div>
+              <form id="form-search" method="get" action="/en/search/index.html">
+                <span></span>
+                <input name="q" type="text" onFocus="if(this.value =='Type text and hit enter' ) this.value=''" onBlur="if(this.value=='') this.value='Type text and hit enter'" value="Type text and hit enter" />
+                <input type="hidden" name="type" value="all" />  
+              </form>
+          </div>                  
+                </div>              
+              </div>
+            </div> 
+            
+    <!---========main-menu========-->
+                      
+   <div class="main-menu">
+     <div>
+      <div class="container">
+         <div class="nav-collapse nav-collapse_ collapse">
+            <button id="menu_button"><i class="fa fa-align-justify"></i></button>
+                              <ul class="nav sf-menu clearfix">
+    
+<li class=" "><a href="/en/page/home.html"  >Home  
+                        
+    </a>
+                    </li>
+            
+<li class=" sub-menu"><a href="/en/page/about-us.html"  >About Dailywell  
+                        
+    </a>
+                <ul>
+                        <li><a href="/en/page/Company-Profile/company-profile.html" alt="Company Profile"  >Company Profile                           
+            </a></li>
+                        <li><a href="/en/page/Future-Visions/future_visions.html" alt="Future Visions"  >Future Visions                           
+            </a></li>
+                        <li><a href="/en/page/Concept-of-Company/concept_of_company.html" alt="Concept of Company"  >Concept of Company                           
+            </a></li>
+                        <li><a href="/en/page/Competitive-Advantages/competitive_advantages.html" alt="Competitive Advantages"  >Competitive Advantages                           
+            </a></li>
+                        <li><a href="/en/page/Company-Structure/organization-chart.html" alt="Company Structure"  >Company Structure                           
+            </a></li>
+                        <li><a href="/en/page/Factory-Facilty/china-factory.html" alt="Factory Facilty"  >Factory Facilty                           
+            </a></li>
+                        <li><a href="/en/page/Process-Flow/process_flow.html" alt="Process Flow"  >Process Flow                           
+            </a></li>
+                        <li><a href="/en/page/Location/location.html" alt="Location"  >Location                           
+            </a></li>
+                        <li><a href="/en/page/Quality-Policy/quality-policy.html" alt="Quality Policy"  >Quality Policy                           
+            </a></li>
+                    </ul>
+                    </li>
+        <li class=" sub-menu">
+    <a href="/en/category/Products/index.html">Products        
+    </a>
+    <ul>
+        <li class=""><a href="/en/category/Toggle-Switches/CAT-Toggle-Switches.html"  alt="Toggle Switches">Toggle Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Rocker-Switches/CAT-Rocker-Switches.html"  alt="Rocker Switches">Rocker Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Slide-Switches/CAT-Slide-Switches.html"  alt="Slide Switches">Slide Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Pushbutton-Switches/CAT-Pushbutton-Switches.html"  alt="Pushbutton Switches">Pushbutton Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Metal-Switches/CAT-Metal-Switches.html"  alt="Metal Switches">Metal Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Rotary-Switches/CAT-Rotary-Switches.html"  alt="Rotary Switches">Rotary Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Tact-Switches/CAT-Tact-Switches.html"  alt="Tact Switches">Tact Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Multi-Function-Switches/CAT-Multi-Function+Switches.html"  alt="Multi-Function Switches">Multi-Function Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Emergency-Push-Pull-Switches/CAT-Emergency-Push-Pull-Switches.html"  alt="Emergency Push-Pull Switches">Emergency Push-Pull Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Dip-Switches/CAT-Dip-Switches.html"  alt="Dip Switches">Dip Switches</a>
+        </li>
+        <li class=""><a href="/en/category/Switch-Accessories/CAT-Switch+Accessories.html"  alt="Switch Accessories">Switch Accessories</a>
+        </li>
+        </ul>
+        </li>
+        <li class=" sub-menu">
+    <a href="/en/news/News/index.html">News        
+    </a>
+    <ul>
+        <li class=""><a href="/en/news/AutoTronics-Taipei-2018/Dailywell-news-2017-003.html"  alt="AutoTronics Taipei 2018">AutoTronics Taipei 2018</a>
+        </li>
+        <li class=""><a href="/en/news/Electronica-China-2018/Dailywell-news-2017-002.html"  alt="Electronica China 2018">Electronica China 2018</a>
+        </li>
+        <li class=""><a href="/en/news/20th-Dailywell-Anniversary-Party/Dailywell-news-2017-001.html"  alt="20th Dailywell Anniversary Party">20th Dailywell Anniversary Party</a>
+        </li>
+        </ul>
+        </li>
+            
+<li class=" "><a href="/en/page/contact-info.html"  >Contact Us  
+                        
+    </a>
+                    </li>
+            
+<li class=" "><a href="/en/page/product_application_range.html"  >Applications  
+                        
+    </a>
+                    </li>
+                     </ul>
+          </div>
+          </div>
+         </div>
+       </div>
+  <!---========end main-menu========-->  
+  </div>
+   
+  </header>
+<div id="content">
+  <div class="content-div">
+    <div class="container">
+<div id="content">
+  <div class="row-extra-content">
+    <div class="container">
+      <h2>Error 404 Page <span>This Page Could Not Be Found :(</span></h2>
+      
+    </div>
+  </div>
+
+   <div class="container content-div">
+
+     <div class="row search-links">
+     
+     <article class="span12">
+     
+     <h4>Search</h4>
+     <p>Please use our search form below: </p>
+        <form id="form-search" method="get" class="search-404" action="/en/search/index.html">
+          <span></span>
+          <input name="q" type="text" onFocus="if(this.value =='Type text and hit enter' ) this.value=''" onBlur="if(this.value=='') this.value='Type text and hit enter'" value="Type text and hit enter" />                
+          <input type="hidden" name="type" value="all" />                                
+        </form>       
+     </article>
+     
+     </div>
+   
+    </div>
+</div>
+    </div>
+  </div>
+</div>
+  
+<!---==============================aside================================-->
+ <aside>
+    <div class="container">
+    <div class="row" id="foot" sid="foot">
+    <article class="span2 contacts">
+      <h3>Contacts</h3>
+      <address  class="address-1">
+        <span><i class="fa fa-phone"></i>886-2-2240-9060</span>
+        <span class="mail-info">
+          <i class="fa fa-envelope"></i>
+          info@dailywell.com.tw        </span>
+        <span><i class="fa fa-map-marker"></i>4F., No. 88, Qiaohe Rd., Zhonghe Dist., New Taipei City 235, Taiwan</span>        
+      </address>  
+    </article>    
+    <article class="span2 info">
+          <h3>Information</h3>
+                    <ul class="list-footer">
+                      <li><a  href="/en/page/Home/home.html">Home</a></li>            
+                      <li><a  href="/en/page/About-Dailywell/about-us.html">About Dailywell</a></li>            
+                      <li><a  href="/en/category/Products/index.html">Products</a></li>            
+                      <li><a  href="/en/news/News/index.html">News</a></li>            
+                      <li><a  href="/en/page/Contact-Us/contact-info.html">Contact Us</a></li>            
+                      <li><a  href="/en/page/Applications/product_application_range.html">Applications</a></li>            
+                    </ul>
+                  
+    </article>
+    <article class="span8" dir="ltr">
+        <h3>Our Recommendation</h3>
+        <div class="carousel-3 carousel_indent  carousel">
+           <ul id="footcarousel" class="clearfix">
+                                                <li>
+            <div class="block_carousel">
+                <div class="block-news">
+                                      <div class="badge">
+                      <img src="https://cdn.ready-market.com/6/e98961bd//Templates/pic/m/wholesite-group_1.jpg?v=f88ae7ef" title="19mm Piezo Switches" />
+                    </div>
+                                        
+                    <div class="extra-wrap" >
+                        <h5 ><a  href="/en/category/Metal-Switches/CAT-Metal-Switches.html" >19mm Piezo Switches</a> </h5>
+                                                <p  class="txt-2" >Lower actuation force, closed surface and sealing perform nice waterproof.</p>
+                        <a  href="/en/category/Metal-Switches/CAT-Metal-Switches.html" class="link">Read More</a>
+                    </div>
+                </div>
+            </div>    
+            </li>    
+                                    <li>
+            <div class="block_carousel">
+                <div class="block-news">
+                                      <div class="badge">
+                      <img src="https://cdn.ready-market.com/6/e98961bd//Templates/pic/m/wholesite-group_2.jpg?v=26a20c4c" title="19mm Capacitive Switches" />
+                    </div>
+                                        
+                    <div class="extra-wrap" >
+                        <h5 ><a  href="/en/category/Metal-Switches/CAT-Metal-Switches.html" >19mm Capacitive Switches</a> </h5>
+                                                <p  class="txt-2" >Zero actuation force and high performance switch that can be used in any environment and very long life for easy maintenance.</p>
+                        <a  href="/en/category/Metal-Switches/CAT-Metal-Switches.html" class="link">Read More</a>
+                    </div>
+                </div>
+            </div>    
+            </li>    
+                                    
+           </ul>           
+           <div class="div-control">
+            <div id="foot-prev" class="prev-slide prev-5"></div>
+                        <div id="foot-next" class="next-slide next-5"></div> </div>
+        </div>
+    </article>
+</div>        
+    
+    </div>
+ </aside>
+<!---==============================footer================================-->
+<footer>
+    <div class="container clearfix block-bottom">
+    <article class="privacy">Copyright © 2018 <span>DAILYWELL ELECTRONICS CO., LTD.</span>. All Rights Reserved. </article>
+    <div class="social-bottom">
+    <div class="socialfloat">Social Bookmark</div>    
+    </div>    
+    </div>
+</footer><div id="gotoTop" class="fa fa-angle-up"></div>
+
+<script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fjquery.rmmin.js&v=c1487e0a"></script>
+<script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fjquery-ui-1.9.2.custom.rmmin.js&v=0f571d7f"></script>
+<script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fappear.rmmin.js&v=a472b470"></script>
+<script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fbootstrap.rmmin.js&v=1381c449"></script>
+<script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2FiframeResizer.min.js&v=576ab6e5"></script>
+
+<script type="text/javascript" src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fjquery.themepunch.plugins.min.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fjquery.themepunch.revolution.min.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fjquery.bxslider.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Flayerslider.transitions.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Flayerslider.kreaturamedia.jquery.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fjs%2Flibs%2FJacked.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fjs%2Fjackbox-swipe.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fjs%2Fjackbox.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjackbox%2Fjs%2Flibs%2FStackBlur.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fswfobject.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Ftab.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Filightbox%2Fsrc%2Fjs%2Fjquery.requestAnimationFrame.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Filightbox%2Fsrc%2Fjs%2Fjquery.mousewheel.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Filightbox%2Fsrc%2Fjs%2Filightbox.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Ftablesaw%2Ftablesaw.jquery.rmmin.js%2C%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Ftablesaw%2Ftablesaw-init.rmmin.js&v=4007ef7c"></script>
+<script>jQuery(document).ready(function(){$('.tp-banner').revolution({startwidth:1200,delay:9000,startheight:480,hideThumbs:10,fullWidth:'on'});});if($.fn.bxSlider){$('#box-3-carousel').bxSlider({minSlides:1,maxSlides:4,moveSlides:1,infiniteLoop:true,hideControlOnEnd:false,slideWidth:270,slideMargin:30,pager:false,nextSelector:'.next-9',prevSelector:'.prev-9'});}
+$(document).ready(function(){$('#layerslider').layerSlider({responsiveUnder:1170,layersContainer:1170,skinsPath:'',showCircleTimer:false,hoverPrevNext:false,navPrevNext:true,navButtons:false,navStartStop:false,touchNav:true});});$(document).ready(function(){if($.fn.bxSlider){$('#box-4-carousel').bxSlider({minSlides:1,maxSlides:3,move:1,slideWidth:270,slideMargin:30,infiniteLoop:true,hideControlOnEnd:false,pager:false,nextSelector:'#box-4-next',prevSelector:'#box-4-prev'});}});if($.fn.bxSlider){$('#box-6-carousel').bxSlider({minSlides:1,maxSlides:1,moveSlides:1,infiniteLoop:true,hideControlOnEnd:false,slideWidth:0,slideMargin:0,pager:false,nextSelector:'#box-6-next',prevSelector:'#box-6-prev'});}
+if($.fn.bxSlider){$('#box-7-carousel').bxSlider({minSlides:1,maxSlides:3,moveSlides:1,infiniteLoop:true,hideControlOnEnd:false,slideWidth:370,slideMargin:30,pager:false,nextSelector:'#box-7-next',prevSelector:'#box-7-prev'});$('#box-7-carousel-2').bxSlider({minSlides:1,maxSlides:1,moveSlides:1,infiniteLoop:true,hideControlOnEnd:false,slideWidth:0,slideMargin:30,pager:false,nextSelector:'#box-7-next-1',prevSelector:'#box-7-prev-1'});}
+if($.fn.bxSlider){$('#footcarousel').bxSlider({minSlides:1,maxSlides:3,moveSlides:1,infiniteLoop:true,hideControlOnEnd:false,slideWidth:370,slideMargin:30,pager:false,nextSelector:'#foot-next',prevSelector:'#foot-prev'});}
+jQuery(document).ready(function(){var t=document.title;jQuery('div.socialfloat').load('/readyscript/bookmark.php',{title:t},function(){var link=jQuery("<link>");link.attr({type:'text/css',rel:'stylesheet',href:'/readyscript/share/social/css/SmartShare.css'});jQuery("head").append(link);});});$(document).ready(function(){jQuery(".jackbox[data-group]").iLightBox({innerToolbar:true});var items={};$('a[rel]').each(function(){items[$(this).attr('rel')]=true;});var result=new Array();for(var i in items)
+{result.push(i);}
+$.each(result,function(key,value){jQuery("a[rel='"+value+"']").iLightBox({innerToolbar:true});});});$(function(){if($('#main-area_tab').length>0){$('#main-area_tab').KandyTabs({action:"toggle",trigger:"click",done:function(btn,cont,tab){jQuery(".jackbox[data-group]",tab).iLightBox({innerToolbar:true});var items={};$('a[rel]',tab).each(function(){items[$(this).attr('rel')]=true;});var result=new Array();for(var i in items)
+{result.push(i);}
+$.each(result,function(key,value){jQuery("a[rel='"+value+"']",tab).iLightBox({innerToolbar:true});});},resize:true});}});jQuery(document).ready(function(){var a=/\.(zip|exe|pdf|doc*|xls*|ppt*|rar)$/i;if(typeof ga!==undefined){jQuery("*[track]").each(function(){var t=jQuery(this).attr("track");jQuery(this).click(function(){ga('send','event','track','click',t);})});jQuery("a").each(function(){var b=jQuery(this).attr("href");if(typeof b=="string")if(b.match(/^https?\:/i)&&!b.match(document.domain))
+jQuery(this).click(function(){var c=b.replace(/^https?\:\/\//i,"");ga('send','event','track_external','click',c);});else if(b.match(/^mailto\:/i))
+jQuery(this).click(function(){var c=b.replace(/^mailto\:/i,"");ga('send','event','track_email','click',c);});else if(b.match(a))
+jQuery(this).click(function(){var d=/[.]/.exec(b)?/[^.]+$/.exec(b):undefined;var c=b;ga('send','event','track_download','click',d+"/"+c);});else if(jQuery(this).hasClass("rm-interlink"))
+jQuery(this).click(function(){var c=jQuery(this).text();ga('send','event','track_interlink','click',c);})})}});</script>
+
+<script type="text/javascript">
+var nsSiteId=312;
+var nsTrackPath='https://track.ready-market.com/track/default.html?';
+var nsTrackMode='default';
+var nsCode=1;
+</script>
+<script type="text/javascript" src="https://track.ready-market.com/track.js"></script>
+<noscript>
+<p style="display:none"><img src="https://track.ready-market.com/track/default.html?st=312" width="1" height="1" alt="" style="display:none"/></p>
+</noscript><script src="https://cdn.ready-market.com/6/e98961bd//readyscript/capps/pc2-p/min/?f=%2Freadyscript%2Fpc2-template%2FRTM-104-TW-DailyWell%2Fjs%2Fscript.rmmin.js&v=cd23e0e2"></script>
+
+<!--/APP/readyscript/capps/pc2-p/libs/df-tpl/js-defense.php-->
+<script>
+    document.write("<scr"+"ipt src=\"/readyscript/capps/pc2-p/js/riddle.js?q=1085582365\" type=\"text/javascript\"></scr"+"ipt>");	
+</script><!--//APP/readyscript/capps/pc2-p/libs/df-tpl/js-defense.php-->
+
+</body>
+</html>

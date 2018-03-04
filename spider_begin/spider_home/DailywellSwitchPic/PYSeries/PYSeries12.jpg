@@ -1,0 +1,1015 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="http://www.dailywell.com.tw/style/frame/templates22/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>德利威電子-開關製造|Led 開關|金屬開關|腳踏開關|搖頭開關|抗破壞開關</title>
+<meta name="robots" content="all" />
+
+	<meta name="keywords" content="開關製造,Led 開關,金屬開關,腳踏開關,搖頭開關,電容開關,觸摸開關,按鍵開關,翹板開關,壓電開關" />
+	<meta name="description" content="電子開關專業製造商_德利威電子股份有限公司專業為您提供各種開關|Led 開關|壓電開關|金屬開關|腳踏開關|搖頭開關|電容開關|觸摸開關|按鍵開關|翹板開關|抗破壞開關|滑動開關的相關信息，想要了解更多開關的詳情，請參閱本網站。" />
+	<meta property="og:description" content="電子開關專業製造商_德利威電子股份有限公司專業為您提供各種開關|Led 開關|壓電開關|金屬開關|腳踏開關|搖頭開關|電容開關|觸摸開關|按鍵開關|翹板開關|抗破壞開關|滑動開關的相關信息，想要了解更多開關的詳情，請參閱本網站。" />
+	<meta name="author" content="www.dailywell.com.tw" />
+	<link href="color_1/css/styles.css" rel="stylesheet" type="text/css">
+<link href='font/font.css' rel='stylesheet' type='text/css'><!-- html5.js for IE less than 9 -->
+<!--[if lt IE 9]><script src="java/html5.js"></script><![endif]-->
+<!-- css3-mediaqueries.js for IE less than 9 -->
+<!--[if lt IE 9]><script src="java/css3-mediaqueries.js"></script><![endif]-->
+<!--[if lte IE 7]>
+<script src="java/IE8.js" type="text/javascript"></script><![endif]-->
+<!--[if IE 6]>
+<script src="java/DD_belatedPNG_0.0.8a-min.js"></script>
+<script>
+DD_belatedPNG.fix('.png_bg, img, .title, .tabs_2');
+</script>
+<![endif]-->
+
+<link rel="canonical" href="http://www.dailywell.com.tw">
+<link rel="alternate" hreflang="x-default" href="http://www.dailywell.com.tw" />
+<link rel="alternate" hreflang="en" href="http://www.dailywell.com.tw/?lang=2&amp;TTo=en">
+<link rel="alternate" hreflang="zh-Hant" href="http://www.dailywell.com.tw/?lang=1&amp;TTo=zh-tw">
+<link rel="alternate" hreflang="es" href="http://www.dailywell.com.tw/?lang=2&amp;TTo=es">
+<link rel="alternate" hreflang="fr" href="http://www.dailywell.com.tw/?lang=2&amp;TTo=fr">
+<link rel="alternate" hreflang="ru" href="http://www.dailywell.com.tw/?lang=2&amp;TTo=ru">
+
+<script type="text/javascript" src="/v_comm/global/scripts/jquery-1.12.3.min.js"></script>
+<script type="text/javascript" src="/v_comm/global/scripts/utils.js"></script>
+<script type="text/javascript" src="/v_comm/javascripts/jquery.navScroll.js"></script>
+<script type="text/javascript" src="/v_comm/global/scripts/jquery-migrate-1.3.0.min.js"></script>
+<script type="text/javascript" src="/v_comm/javascripts/JQuery-MenuTree.js"></script>
+<script type="text/javascript" src="/v_comm/javascripts/frameset_title_rewriter.js"></script>
+
+<script type="text/javascript" src="java/jquery.treeview.js"></script>
+<script type="text/javascript" src="java/treeview.js"></script>
+<script type="text/javascript" src="java/jquery.cycle/chili-1.7.pack.js"></script>
+<script type="text/javascript" src="java/jquery.cycle/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="java/jquery.cycle/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="java/jquery.cookie.js"></script>
+<script type="text/javascript" src="java/jscript.js"></script>
+
+<script type="text/javascript" src="java/SuperSlide/jquery.SuperSlide.js"></script>
+<script src="java/totop/easing.js" type="text/javascript"></script>
+<script src="java/totop/jquery.ui.totop.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    $(function () {
+        $().UItoTop({ easingType: 'easeOutQuart' });
+    });
+</script>
+
+        <script type="text/javascript">
+            function CloseIcon(AbjIcon, j) {
+                icon = document.getElementById(AbjIcon);
+                for (i = 1; i <= j; i++) {
+                    kk = document.getElementById("topmu" + i);
+                    if (kk != null) {
+                        if (icon == kk.id) {
+                            if (icon.style.display == "none") {
+                                icon.style.display = "block";
+                            } else {
+                                icon.style.display = "none";
+                            }
+                        } else {
+                            kk.style.display = "none";
+                        }
+                    }
+                }
+            }
+            
+            function CloseAll_Icon(j) {
+                for (i = 1; i <= j; i++) {
+                    IconBbj = document.getElementById("topmu" + i);
+                    if (IconBbj != null) {
+                        if (IconBbj.style.display == "block") {
+                            IconBbj.style.display = "none";
+                        }
+                    }
+                }
+            }
+            
+            var mmStart;
+            var timeout = 500;
+            var mmInTimerobj;
+            var mmHideMenuTimer = null;
+            var NotHiddenDivs = new Array();
+            
+            function getPos(el, sProp) {
+                var iPos = 0;
+                while (el != null) {
+                    iPos += el["offset" + sProp];
+                    el = el.offsetParent;
+                }
+                return iPos;
+            }
+            
+            function MM_clearTimeout() {
+                if (mmHideMenuTimer) {
+                    clearTimeout(mmHideMenuTimer);
+                    mmHideMenuTimer = null;
+                }
+            }
+            
+            function MM_startTimeout() {
+                NotHiddenDivs = null;
+                mmStart = new Date();
+                mmHideMenuTimer = setTimeout("mmDoHide()", 500);
+            }
+            
+            function mmDoHide() {
+                var elapsed = new Date() - mmStart;
+                if (elapsed < timeout) {
+                    mmHideMenuTimer = setTimeout("mmDoHide()", timeout + 100 - elapsed);
+                    return;
+                }
+                ToHiddenAllDiv();
+                mmHideMenuTimer = null;
+            }
+            
+            function FIND(item) {
+                if (window.mmIsOpera) return document.getElementById(item);
+                if (document.all) return document.all[item];
+                if (document.getElementById) return document.getElementById(item);
+                return false;
+            }
+            
+            function ShowMenu(el, NotHiddenDivStr, actMenu) {
+                var ActiveMenu;
+                var left;
+                MM_clearTimeout();
+                if (!NotHiddenDivs) {
+                    NotHiddenDivs = NotHiddenDivStr.split(",");
+                    ToHiddenAllDiv();
+                }
+                if (FIND(actMenu)) {
+                    ActiveMenu = FIND(actMenu);
+                    if (ActiveMenu) {
+                        
+                            left = getIE(el);
+                            
+                                d = document.getElementById("navigation");
+                                l = getIE(d);
+                                left = left - l;
+                            
+                            ActiveMenu.style.marginLeft = left + "px";
+                            ActiveMenu.style.pixelTop = getPos(el.offsetParent, "Top") + el.offsetParent.offsetHeight;
+                            ActiveMenu.style.display = 'block';
+                        
+                    }
+                }
+            }
+            
+            function ToHiddenAllDiv() {
+                var Divstr, hiddenFlg;
+                for (var i = 0; i < 100; i++) {
+                    Divstr = "topmu" + i;
+                    hiddenFlg = true;
+                    if (NotHiddenDivs) {
+                        for (var j = 0; j < NotHiddenDivs.length; j++) {
+                            if (NotHiddenDivs[j] == Divstr) {
+                                hiddenFlg = false;
+                            }
+                        }
+                    }
+                    if (hiddenFlg) {
+                        if (FIND("topmu" + i)) {
+                            var toHiddenDiv = FIND("topmu" + i);
+                            toHiddenDiv.style.display = 'none';
+                        }
+                    }
+                }
+            }
+            
+            function getIE(e) {
+                var t = e.offsetTop;
+                var l = e.offsetLeft;
+                
+                while (e = e.offsetParent) {
+                    t += e.offsetTop;
+                    l += e.offsetLeft;
+                }
+                
+                
+                    if (navigator.appVersion.indexOf('MSIE 6.0', 0) > 0) {
+                        //l = l - 160;
+                    } else if (navigator.appVersion.indexOf('MSIE 8.0', 0) > 0) {
+                        //l = l - 30;
+                    } else {
+                        // = l - 180;
+                    }
+                
+                
+                return l;
+            }
+        </script>
+        
+    <script type="text/javascript">
+            $(function() {
+                var currSlide;
+                $('.slideshow')
+                    .before('<div class="homeimage"><div id="homeimage">')
+                    .cycle({
+                        speed           : 1500,
+                        fx              : 'uncover,uncover,uncover,uncover',
+                        easing          : 'easeInBack',
+                        randomizeEffects: false,
+                        pause           : 1,
+                        timeoutFn       : function (curr, next, opts, fwd) {
+                            return [2, 2, 2, 2][opts.currSlide] * 1000;
+                        },
+                        pager           : '#homeimage',
+                        slideResize     : 0,
+                        after           : function (curr, next, opts, fwd) {
+                            currSlide = $(this);
+                            trackSlideHeight();
+                        }
+                    });
+                
+                $(window).on('resize', function () {
+                    var currSlideHeight = 0;
+                    if (currSlide) {
+                        currSlideHeight = currSlide.height();
+                    }
+                    $('.slideshow').css({ height: currSlideHeight, width: '100%' });
+                });
+                
+                function trackSlideHeight() {
+                    if (currSlide && currSlide.height()) {
+                        $('.slideshow').animate({ height: currSlide.height() });
+                    } else {
+                        setTimeout(trackSlideHeight, 100);
+                    }
+                }
+            });
+        </script>
+
+<style type="text/css">
+#home_right_box{width:350px;}
+#trans_lang #languages {width: 112px;}
+
+</style>
+<script type="text/javascript">
+$(function(){ 
+$('#trans_lang #languages:nth-child(3)').after('<div id="languages"><a href="http://www.dailywell.com.cn"><img src="http://www.dailywell.com.tw/style/comm/inc/images/zh-cn.jpg">Chinese(Simp.)</a></div>');
+});
+
+$(function () {
+    $('#home_about_box strong').text('產品目錄');
+});
+
+$(function () {
+    $('#home_about_box span').text('Products');
+});
+
+</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-53KQ7V');</script>
+
+
+</head>
+<body id="home">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-53KQ7V" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <section id="web_page">
+        
+<div id="topicon_page">
+    <div class="topicon_box">
+    <div class="topicon_left_box">
+    <div id="home_search_page">
+    <section id="home_search_box"> 
+        <div class="sub_search_box">
+            <form name="form" method="get" class="home_search_bg" action="index_search.asp">
+                <input type="hidden" name="customer_id" value="2824">
+                <input type="hidden" name="lang" value="1">
+                <input type="hidden" name="content_set" value="color_1">
+                <input type="hidden" name="name_id" value="">
+                
+                
+                    <input class="search_txt" type="text" name="search" size="20"
+                           onfocus="if (value == '--請輸入關鍵字--') {value = ''}"
+                           onblur="if (value == '') {value = '--請輸入關鍵字--'}"
+                           value="--請輸入關鍵字--" />
+                    <input class="btn1" type="submit" value="搜尋" />
+                
+                
+            </form>
+        </div>
+    </section>
+</div>
+
+    </div>
+        
+                <div id="language_box">
+                    <div id="trans_lang">
+    <div id="title" onmouseover="fade()" onmouseout="pinch()" align="center">
+        <a><span id="titleImg"
+            ><img src="../../comm/inc/images/title.png" width="148" height="23"
+                  style="position: relative; z-index: 2000;"
+        /></span></a>
+        <div id="worldwide" name="aaa"
+             style="z-index: 1999;"
+             onmouseover="extand(this)" onmouseout="pinch(this)">
+            <div id="content">
+                <div id="top">
+                    <div id="top_title">WORLDWIDE</div>
+                </div>
+                
+                    <div id="languages" style="background:#fff;">
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="25"
+                                    ><a href="../../../?lang=2&TTo=en" title="English" target="_top"
+                                        ><img src="../../comm/inc/images/en.jpg" width="19" height="13" /></a
+                                ></td>
+                                <td class="no_wrap" nowrap
+                                    ><a href="../../../?lang=2&TTo=en" title="English" target="_top"
+                                        >&nbsp;English</a
+                                ></td>
+                            </tr>
+                        </table>
+                    </div>
+                
+                    <div id="languages" style="background:#fff;">
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="25"
+                                    ><a href="../../../?lang=1&TTo=zh-tw" title="Chinese" target="_top"
+                                        ><img src="../../comm/inc/images/zh-tw.jpg" width="19" height="13" /></a
+                                ></td>
+                                <td class="no_wrap" nowrap
+                                    ><a href="../../../?lang=1&TTo=zh-tw" title="Chinese" target="_top"
+                                        >&nbsp;Chinese</a
+                                ></td>
+                            </tr>
+                        </table>
+                    </div>
+                
+                    <div id="languages" style="background:#fff;">
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="25"
+                                    ><a href="../../../?lang=2&TTo=es" title="Spanish" target="_top"
+                                        ><img src="../../comm/inc/images/es.jpg" width="19" height="13" /></a
+                                ></td>
+                                <td class="no_wrap" nowrap
+                                    ><a href="../../../?lang=2&TTo=es" title="Spanish" target="_top"
+                                        >&nbsp;Spanish</a
+                                ></td>
+                            </tr>
+                        </table>
+                    </div>
+                
+                    <div id="languages" style="background:#fff;">
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="25"
+                                    ><a href="../../../?lang=2&TTo=fr" title="French" target="_top"
+                                        ><img src="../../comm/inc/images/fr.jpg" width="19" height="13" /></a
+                                ></td>
+                                <td class="no_wrap" nowrap
+                                    ><a href="../../../?lang=2&TTo=fr" title="French" target="_top"
+                                        >&nbsp;French</a
+                                ></td>
+                            </tr>
+                        </table>
+                    </div>
+                
+                    <div id="languages" style="background:#fff;">
+                        <table width="100" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td width="25"
+                                    ><a href="../../../?lang=2&TTo=ru" title="Russian" target="_top"
+                                        ><img src="../../comm/inc/images/ru.jpg" width="19" height="13" /></a
+                                ></td>
+                                <td class="no_wrap" nowrap
+                                    ><a href="../../../?lang=2&TTo=ru" title="Russian" target="_top"
+                                        >&nbsp;Russian</a
+                                ></td>
+                            </tr>
+                        </table>
+                    </div>
+                
+                <div id="cleancss"></div>
+                <div id="down"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function extand() {
+        //sel.style.visibility = 'visible';
+        document.getElementById('worldwide').style.visibility = 'visible';
+    }
+    
+    function pinch(obj) {
+        document.getElementById('worldwide').style.visibility = 'hidden';
+        //sel.style.visibility = 'hidden';
+        bb    = 1;
+        logic = true;
+        clearTimeout(timeid)
+    }
+    
+    var timeid;
+    var bb    = 1;
+    var logic = true;
+    var sel;
+    function sele(obj) {
+        sel = obj;
+    }
+    
+    function fade() {
+        if (document.all);
+        if (logic == true) {
+            document.getElementById('worldwide').style.visibility = 'visible';
+            //sel.style.visibility = 'visible';
+            bb += 6;
+            if (bb > 75) {
+                logic = false;
+            }
+            if (bb < 75) {
+                timeid = setTimeout('fade()', 1);
+            }
+        }
+    }
+</script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                if ($.browser) {
+                    var p = $("#titleImg");
+                    var q = $("#worldwide");
+                    var wid = q.width() - p.width();
+                    var position = p.position();
+                    var bro = $.browser;
+                    if (bro.msie || bro.mozilla) {
+                        $("#worldwide").css("left", position.left - wid - 5);
+                        $("#worldwide").css("top", position.top + p.height() - 2);
+                    } else if (bro.opera) {
+                        $("#worldwide").css("left", position.left - wid - 5);
+                        $("#worldwide").css("top", position.top + p.height() - 6);
+                    } else {
+                        $("#worldwide").css("left", position.left - wid - 5);
+                        $("#worldwide").css("top", position.top + p.height() - 5);
+                    }
+                }
+            })
+        </script>
+
+                </div>
+            
+        <div id="topmenuicon">
+            <ul>
+                <li><a href="../../../?lang=1" target="_top">首頁</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</div><div id="sub_top_header_page" >
+<div class="top_header_box" >
+<section class="company_box">
+<h1 class="logopic">
+
+<a href="http://www.dailywell.com.tw/?lang=1" target="_parent" title="logo">
+<img src="../../../comm/upimage/w_170104_04113.jpg" alt="" border="0" vspace="0" hspace="0" />
+</a>
+
+</h1>
+<h2><font size="5"> </font></h2>
+</section>
+<div id="navigation_page">
+<div id="navigation_box">
+<div id="navigation">
+<div class="navigation_box">
+<div id="divBg">
+    <div id="divMenu">
+        <div id="tabs_1">
+            <ul>
+                
+                    <li >
+                        <a href="/s/1/about.html" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu1&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu1&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">關於德利威</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="/s/1/product.html" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu2&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu2&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">產品介紹</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="/s/1/new-product.html" onmouseover="CloseAll_Icon(&#039;6&#039;)">
+                            <strong>
+                                    <font size="4">新產品介紹</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="/s/1/news.html" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu3&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu3&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">最新消息</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="/s/1/factory.html" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu4&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu4&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">國際品牌</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="/s/1/quality.html" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu5&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu5&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">客戶服務</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+                    <li >
+                        <a href="http://www.dailywell.com.tw/style/frame/m5/features.asp?content_set=color_3&lang=1&customer_id=2824&name_id=1361" onmouseover="ShowMenu(this, &#039;&#039;, &#039;topmu6&#039;);" onfocus="ShowMenu(this,&#039;&#039;,&#039;topmu6&#039;);" onmouseout="MM_startTimeout();" onblur="MM_startTimeout();">
+                            <strong>
+                                    <font size="4">人力資源</font>
+                                </strong>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+    <div id="divArrowLeft">
+    <a href="javascript:;">
+        
+    </a>
+</div><div id="divArrowRight">
+    <a href="javascript:;">
+        
+    </a>
+</div>
+</div>
+            <script type="text/javascript">
+                jQuery(function ($) {
+                    $('#divBg').navScroll({
+                        leftOffset : -20,
+                        rightOffset: 0
+                    });
+                });
+            </script>
+            
+</div>
+<div id="submenu">
+            <div id="topmu1" onmouseover="ShowMenu(this,'topmu1','')" onfocus="ShowMenu(this,'topmu1','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="/s/1/about-10888/關於我們.html"><font size="2">關於我們</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/about-10889/公司沿革.html"><font size="2">公司沿革</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/about-10890/研發與品保.html"><font size="2">研發與品保</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/about-10891/行銷理念.html"><font size="2">行銷理念</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/about-10932/產品認證.html"><font size="2">產品認證</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/about-10957/新聞快訊.html"><font size="2">新聞快訊</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        
+            <div id="topmu2" onmouseover="ShowMenu(this,'topmu2','')" onfocus="ShowMenu(this,'topmu2','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="/s/1/product-c112831/搖頭開關.html"><font size="2">搖頭開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112832/翹板開關.html"><font size="2">翹板開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112833/滑動開關.html"><font size="2">滑動開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112834/按鈕開關.html"><font size="2">按鈕開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c113999/腳踏開關.html"><font size="2">腳踏開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112829/金屬開關.html"><font size="2">金屬開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112840/旋鈕開關.html"><font size="2">旋鈕開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112839/鍵盤開關.html"><font size="2">鍵盤開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112830/輕觸開關.html"><font size="2">輕觸開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c114003/防盜開關.html"><font size="2">防盜開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112838/偵測開關.html"><font size="2">偵測開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112828/LED-開關.html"><font size="2">LED 開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c113998/急停開關.html"><font size="2">急停開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112836/指撥開關.html"><font size="2">指撥開關</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/product-c112841/開關配件.html"><font size="2">開關配件</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        
+            <div id="topmu3" onmouseover="ShowMenu(this,'topmu3','')" onfocus="ShowMenu(this,'topmu3','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="/s/1/news-c2575/參展資訊.html"><font size="2">參展資訊</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        
+            <div id="topmu4" onmouseover="ShowMenu(this,'topmu4','')" onfocus="ShowMenu(this,'topmu4','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="/s/1/factory-7780/產品對照.html"><font size="2">產品對照</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        
+            <div id="topmu5" onmouseover="ShowMenu(this,'topmu5','')" onfocus="ShowMenu(this,'topmu5','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="http://www.dailywell.com.tw/style/frame/m5/contact.asp?lang=1&customer_id=2824&content_set=color_3&name_id=148887" target="_self"><font size="2">聯絡德利威</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/quality-3076/公司據點.html"><font size="2">公司據點</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        
+            <div id="topmu6" onmouseover="ShowMenu(this,'topmu6','')" onfocus="ShowMenu(this,'topmu6','')" onmouseout="MM_startTimeout()" onblur="MM_startTimeout()" style="display:none; z-index: 1000;">
+                <div class="group_t">
+                    <!-- div tabs_2 start -->
+                    <div class="tabs_2">
+                        <ul>
+                            
+                                <li><a hideFocus href="https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=484a446c5e46406a52423c1d1d1d1d5f2443a363189j56" target="_blank"><font size="2">人才招募</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/features-1361-2973/教育訓練.html"><font size="3">教育訓練</font></a></li>
+                            
+                                <li><a hideFocus href="/s/1/features-1361-2974/活動花絮.html"><font size="3">活動花絮</font></a></li>
+                            
+                        </ul>
+                    </div>
+                    <!-- div tabs_2 end -->
+                    
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <div id="homeimage_page">
+        <figure id="homeimage_box"class="slideshow">
+            <div class="homeimage_img">
+    <div class="bannger_inbox">
+        <a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%87%91%E5%B1%AC%E9%96%8B%E9%97%9C-c112829.html" target="_blank"><img src="../../../comm/upimage/w_161019_05676.jpg" alt="" border="0" vspace="0" hspace="0" /></a>
+    </div>
+</div><div class="homeimage_img">
+    <div class="bannger_inbox">
+        <a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E8%85%B3%E8%B8%8F%E9%96%8B%E9%97%9C-c113999.html" target="_blank"><img src="../../../comm/upimage/w_161019_05677.jpg" alt="" border="0" vspace="0" hspace="0" /></a>
+    </div>
+</div><div class="homeimage_img">
+    <div class="bannger_inbox">
+        <a href="http://www.dailywell.com.tw/s/zh-tw/1/product/LED-%E9%96%8B%E9%97%9C-c112828.html" target="_blank"><img src="../../../comm/upimage/w_161019_05678.jpg" alt="" border="0" vspace="0" hspace="0" /></a>
+    </div>
+</div><div class="homeimage_img">
+    <div class="bannger_inbox">
+        <a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%8D%B5%E7%9B%A4%E9%96%8B%E9%97%9C-c112839.html" target="_blank"><img src="../../../comm/upimage/w_161019_05679.jpg" alt="" border="0" vspace="0" hspace="0" /></a>
+    </div>
+</div>
+        </figure>
+    </div>
+<div id="home_row_page">
+    <div class="home_row_box">
+        
+    </div>
+</div>
+        <section id="home_content_page">
+            <section id="home_content_box">
+                <div id="home_one_box">
+                    <div class="leftLoop">
+                        
+                    </div>
+                    
+                </div>
+                <div id="marquee_box">
+                    <div id="marquee1" onmouseover="S1.Speed=0;" onmouseout="S1.Speed=-2;"><span></span></div>
+                </div>
+                <section id="home_left_box">
+                    <section id="home_about_box">
+                        
+                            <div class="title_box">
+                                <strong>公司簡介</strong><span>About Us</span>
+                            </div>
+                        
+                        <div class="content_box">
+                            
+                                <font size="3">
+                                    <start>
+<style>
+.ind{width:100%;}
+.inpd_l{width:220px; float:left;}
+ul#prod-cat-list{padding:20px 0 10px;margin:0;width:220px;}
+ul#prod-cat-list li{padding:0;margin:0 0 2px;list-style:none;font-size:14px;position:relative;min-height:30px;background:url(http://webbuilder5.asiannet.com/ftp/2824/prod-cat-line.png) 0 -5px no-repeat;}
+ul#prod-cat-list li a{background:#fff;padding:0 8px 0 0;}
+ul#prod-cat-list li img{max-width:48px;max-height:48px;position:absolute;z-index:10;right:0;top:-15px;}
+ul#prod-cat-list li.row2 img{right:45px;}
+.inpd_r{width:220px; margin-left:20px; margin-right:20px;margin:0px; float:right;}
+</style>
+<div class="ind">
+<div class="inpd_l">
+<ul id="prod-cat-list">
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%90%96%E9%A0%AD%E9%96%8B%E9%97%9C-c112831.html"><img alt="Toggle Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-2M.jpg" />搖頭開關</a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E7%BF%B9%E6%9D%BF%E9%96%8B%E9%97%9C-c112832.html"><img alt="Rocker Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-4M.jpg" />翹板開關</a></li>
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%BB%91%E5%8B%95%E9%96%8B%E9%97%9C-c112833.html"><img alt="Slide Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-5F.jpg" />滑動開關</a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%8C%89%E9%88%95%E9%96%8B%E9%97%9C-c112834.html"><img alt="Pushbutton Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-PA.jpg" />按鈕開關</a></li>    
+	<li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E8%85%B3%E8%B8%8F%E9%96%8B%E9%97%9C-c113999.html"><img alt="Foot Switc" src="http://webbuilder5.asiannet.com/ftp/2824/ind-FK.jpg" />腳踏開關</a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%87%91%E5%B1%AC%E9%96%8B%E9%97%9C-c112829.html"><img alt="Metal Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-MPB19.jpg" />金屬開關</a></li>   
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%97%8B%E9%88%95%E9%96%8B%E9%97%9C-c112840.html"><img alt="Rotary Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-RT.jpg" />旋鈕開關</a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%8D%B5%E7%9B%A4%E9%96%8B%E9%97%9C-c112839.html"><img alt="Key Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-KS5.jpg" />鍵盤開關 </a></li>   
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E8%BC%95%E8%A7%B8%E9%96%8B%E9%97%9C-c112830.html"><img alt="Tact Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-BP.jpg" />輕觸開關</a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%98%B2%E7%9B%9C%E9%96%8B%E9%97%9C-c114003.html"><img alt="Intrusion Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-PS9.jpg" />防盜開關</a></li> 
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E5%81%B5%E6%B8%AC%E9%96%8B%E9%97%9C-c112838.html"><img alt="Detector Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-TE.jpg" />偵測開關</a></li>    
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/LED-%E9%96%8B%E9%97%9C-c112828.html"><img alt="LED-KT" src="http://webbuilder5.asiannet.com/ftp/2824/ind-LED-KT.jpg" />LED 開關</a></li>
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%80%A5%E5%81%9C%E9%96%8B%E9%97%9C-c113998.html"><img alt="Emergency Push-Pull Switch " src="http://webbuilder5.asiannet.com/ftp/2824/ind-PTW.jpg" />急停開關 </a></li>
+    <li class="row2"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E6%8C%87%E6%92%A5%E9%96%8B%E9%97%9C-c112836.html"><img alt="Dip Switches" src="http://webbuilder5.asiannet.com/ftp/2824/ind-EPM.jpg" />指撥開關</a></li>
+    <li class="row1"><a href="http://www.dailywell.com.tw/s/zh-tw/1/product/%E9%96%8B%E9%97%9C%E9%85%8D%E4%BB%B6-c112841.html"><img alt="Accessories" src="http://webbuilder5.asiannet.com/ftp/2824/ind-E1.jpg" />開關配件</a></li>
+  </ul>
+ </div> 
+  
+<div class="inpd_r"> <a href="http://www.dailywell.com.tw/s/zh-tw/1/new-product.html"><img alt="TZ19" src="http://webbuilder5.asiannet.com/ftp/2824/inpd-01.jpg" /></a><a href="http://www.dailywell.com.tw/s/zh-tw/1/new-product.html"><img alt="TZ19" src="http://webbuilder5.asiannet.com/ftp/2824/inpd-002.jpg" /></a></div>
+</div>
+
+<div style="left: 410px; top:350px; Z-INDEX: 10001; WIDTH: 0px;position:relative;">
+<iframe width="320" height="180" src="https://www.youtube.com/embed/hAHp6F4EGuM" frameborder="0" allowfullscreen></iframe>
+</div>
+</start>
+                                </font>
+                            
+                        </div>
+                    </section>
+                </section>
+                
+                    <aside id="home_right_box">
+                        <section id="home_news_box">
+                            <div class="title_box">
+                                <strong>最新消息</strong><span>Latest News</span>
+                            </div>
+                            <ul>
+                                
+                                    <li>
+                                        <div class="home_news_one_box">
+                                            <div class="meta_box">
+                                                <div class="meta">
+                                                    <div class="day" style="font-size: 14px;">
+                                                        3/1
+                                                    </div>
+                                                    <div class="mounth">
+                                                        2017
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h3 class="title">
+                                                    <a href="/s/1/news-37393/2017-Electronica-China-Munich.html" title="">
+                                                        2017 Electronica China-Munich
+                                                    </a>
+                                                </h3>
+                                                
+                                                    <div class="txt">
+                                                        2017慕尼黑上海電子展 3/14~3/16
+                                                    </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="home_news_one_box">
+                                            <div class="meta_box">
+                                                <div class="meta">
+                                                    <div class="day" style="font-size: 14px;">
+                                                        12/20
+                                                    </div>
+                                                    <div class="mounth">
+                                                        2016
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h3 class="title">
+                                                    <a href="/s/1/news-35965/2016-Merry-Christmas.html" title="">
+                                                        2016 Merry Christmas
+                                                    </a>
+                                                </h3>
+                                                
+                                                    <div class="txt">
+                                                        2016 Merry Christmas
+                                                    </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="home_news_one_box">
+                                            <div class="meta_box">
+                                                <div class="meta">
+                                                    <div class="day" style="font-size: 14px;">
+                                                        11/21
+                                                    </div>
+                                                    <div class="mounth">
+                                                        2016
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h3 class="title">
+                                                    <a href="/s/1/news-35837/德利威FACEBOOK粉絲團.html" title="">
+                                                        德利威FACEBOOK粉絲團
+                                                    </a>
+                                                </h3>
+                                                
+                                                    <div class="txt">
+                                                        成立德利威FACEBOOK粉絲團，請掃QR Code加入
+                                                    </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="home_news_one_box">
+                                            <div class="meta_box">
+                                                <div class="meta">
+                                                    <div class="day" style="font-size: 14px;">
+                                                        10/26
+                                                    </div>
+                                                    <div class="mounth">
+                                                        2016
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h3 class="title">
+                                                    <a href="/s/1/news-35691/2016-Bauma-China.html" title="">
+                                                        2016 Bauma China
+                                                    </a>
+                                                </h3>
+                                                
+                                                    <div class="txt">
+                                                        2016 Bauma China/寶馬展
+                                                    </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                                    <li>
+                                        <div class="home_news_one_box">
+                                            <div class="meta_box">
+                                                <div class="meta">
+                                                    <div class="day" style="font-size: 14px;">
+                                                        10/26
+                                                    </div>
+                                                    <div class="mounth">
+                                                        2016
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h3 class="title">
+                                                    <a href="/s/1/news-35690/2016-CHINA-HI-TECH-FAIR.html" title="">
+                                                        2016 CHINA HI-TECH FAIR
+                                                    </a>
+                                                </h3>
+                                                
+                                                    <div class="txt">
+                                                        2016 CHINA HI-TECH FAIR/中國國際高新技術成果交易會
+                                                    </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </li>
+                                
+                            </ul>
+                            <div class="all_more_page">
+                                <div class="all_more_box">
+                                    <a href="/s/1/news.html">更多最新消息</a>
+                                </div>
+                            </div>
+                        </section>
+                    </aside>
+                
+            </section>
+            
+        </section>
+    </section>
+    <footer id="footer">
+    <div class="footer_nav_page">
+        <div class="footer_nav_box">
+            <article class="grid_12">
+                <!--<h5>Contacts</h5>-->
+                <ul class="list-2_box address">
+                    
+                        <li>
+                            
+                                <strong>地址：</strong>
+                            
+                            <div class="address_txt_box">新北市中和區橋和路88號4樓</div>
+                        </li>
+                    
+                        <li>
+                            
+                                    <strong class="address_tel_title">電話：</strong>
+                                
+                                <div class="address_tel_box">886-2-22409060</div>
+                            
+                                    <strong class="address_fax_title">傳真：</strong>
+                                
+                                <div class="address_fax_box">886-2-22409070</div>
+                            
+                        </li>
+                    
+                        <li>
+                            
+                                <strong class="address_email_title">E-Mail：</strong>
+                            
+                            <a class="address_email_box" href="mailto:info@dailywell.com.tw">info@dailywell.com.tw</a>
+                        </li>
+                    
+                </ul>
+            </article>
+        </div>
+    </div>
+    <section class="footer_page">
+        <section class="footer_box">
+            <!--<div class="copyright_box">Copyright © 2012 Web Builder Inc. All rights reserved.</div>-->
+            
+                <div id="powered"><font class="wb"> Powered by <a class="wb" href="http://webbuilder.asiannet.com/" target="_blank">Web Builder</a> & associated with <a class="wb" href="http://www.etradeasia.com/" target="_blank">Trade Asia</a>  </font></div>
+            
+        </section>
+    </section>
+</footer>
+<script type="text/javascript" src="java/marquee2.js"></script>
+<script type="text/javascript" src="java/ToolTip.js"></script>
+<script type="text/javascript">
+
+</script>
+
+
+</body>
+</html>
