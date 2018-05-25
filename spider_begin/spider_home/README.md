@@ -1,14 +1,13 @@
 本项目是参考的[Python开发简单爬虫](http://www.imooc.com/learn/563)课程的实例，了解更多课程信息点击链接即可访问。
 
-# spider_baike
-抓取百度百科关于Python词条下1000个链接页面的数据，并输出到output.html文件。Python2.7的版本
+# spider
+ Catch switch pic
 
-# 需要的运行环境：
+# Environments：
 - Ubuntu14.04、Python2.7、BeautifulSoup4、urllib2等
 
-# 爬虫调度端
 
-## URL管理器：
+## URL manager：
 管理待抓取URL集合和已抓取URL集合，防止重复抓取和循环抓取。
 
 - 添加新的URL到待爬取集合中
